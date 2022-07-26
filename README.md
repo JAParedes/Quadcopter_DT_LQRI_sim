@@ -9,7 +9,6 @@ Matlab files to perform a simulation in which a quadcopter system is controlled 
 * **trajectory_generator.m** : Generates an inclined circular trajectory .csv file that can be used for **Quad_Sim_LQR_I.m**.
 * **trapzFilter.m** : Second-order discrete-time filter used in **trajectory_generator.m**.
 * **ref_Traj.csv** : Reference trajectory .csv file that can be used to test **run_simulation.m**.
-* **quad_sim_data.mat** : Reference simulation results that can be used to test **plot_simulation_results.m**.
 
 ## Citing work
 
